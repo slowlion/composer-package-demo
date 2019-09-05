@@ -1,5 +1,15 @@
 {
     "name": "slowlion/composer-package-demo",
+    "description": "composer-package-demo by slowlion",
+    "authors": [
+        {
+            "name": "FC"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    },
     "autoload": {
         "psr-4": {
             "Slowlion\\ComposerPackageDemo\\": "src/"
