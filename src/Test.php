@@ -3,8 +3,8 @@ namespace Slowlion\ComposerPackageDemo;
 
 class Test
 {
-    public function heihei()
+    public function hello()
     {
-        echo 'six six six', PHP_EOL;
+        echo 'hello world', PHP_EOL;
     }
 }
