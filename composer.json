@@ -1,0 +1,8 @@
+{
+    "name": "slowlion/composer-package-demo",
+    "autoload": {
+        "psr-4": {
+            "Slowlion\\ComposerPackageDemo\\": "src/"
+        }
+    }
+}
